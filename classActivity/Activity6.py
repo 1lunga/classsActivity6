@@ -1,4 +1,4 @@
-21800060 LG Nyasengo
+#21800060 LG Nyasengo
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv("C:/Users/June Gemini/Downloads/dataset - 2020-09-24.csv")
